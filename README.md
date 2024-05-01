@@ -1,5 +1,5 @@
 # Netflix-EDA 🎬🎥
-The exploratory data analysis (EDA) on the Netflix dataset presents a structured approach to understanding and analyzing the provided data. Here's a general summary of the steps involved:
+The exploratory data analysis (EDA) on the Netflix dataset presents a structured approach to understanding and analyzing the provided data.
 
 1. Importing the Dataset: The analysis begins with importing the Netflix dataset using a suitable library like pandas.
 
